@@ -1,0 +1,10 @@
+/home/miraz/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/211.7442.42/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/miraz/semestr_4/JNP2/strumienie_i_2D
+-- The CUDA compiler identification is NVIDIA 11.3.58
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: /opt/cuda/bin/nvcc - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/miraz/semestr_4/JNP2/strumienie_i_2D/cmake-build-debug

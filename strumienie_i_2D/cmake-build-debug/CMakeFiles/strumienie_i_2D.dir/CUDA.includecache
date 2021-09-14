@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miraz/semestr_4/JNP2/strumienie_i_2D/main.cu
+iostream
+-
+vector
+-
+algorithm
+-
+main.h
+/home/miraz/semestr_4/JNP2/strumienie_i_2D/main.h
+
+/home/miraz/semestr_4/JNP2/strumienie_i_2D/main.h
+iostream
+-
+cstdio
+-
+chrono
+-
+ctime
+-
+cmath
+-
+

@@ -1,0 +1,3 @@
+/home/miraz/semestr_4/JNP2/Threads_2D/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miraz/semestr_4/JNP2/Threads_2D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/miraz/semestr_4/JNP2/Threads_2D/cmake-build-debug/CMakeFiles/Threads_2D.dir

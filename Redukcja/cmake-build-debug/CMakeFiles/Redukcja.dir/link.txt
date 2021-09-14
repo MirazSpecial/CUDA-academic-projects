@@ -1,0 +1,1 @@
+/opt/cuda/bin/g++ CMakeFiles/Redukcja.dir/Redukcja.cu.o CMakeFiles/Redukcja.dir/cmake_device_link.o -o Redukcja  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"

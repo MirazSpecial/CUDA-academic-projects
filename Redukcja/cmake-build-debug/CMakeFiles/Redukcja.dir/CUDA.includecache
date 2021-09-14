@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miraz/semestr_4/JNP2/Redukcja/Redukcja.cu
+cmath
+-
+Redukcja.h
+/home/miraz/semestr_4/JNP2/Redukcja/Redukcja.h
+
+/home/miraz/semestr_4/JNP2/Redukcja/Redukcja.h
+iostream
+-
+cstdio
+-
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miraz/semestr_4/JNP2/Mandelbrot/Mandelbrot.cu
+Mandelbrot_cuda.h
+/home/miraz/semestr_4/JNP2/Mandelbrot/Mandelbrot_cuda.h
+cmath
+-
+chrono
+-
+iostream
+-
+pngwriter.h
+-
+
+/home/miraz/semestr_4/JNP2/Mandelbrot/Mandelbrot_cuda.h
+cstdio
+-
+cstring
+-
+ctime
+-
+iostream
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,1 @@
+/opt/cuda/bin/g++ CMakeFiles/Threads_2D.dir/Threads_2D.cu.o CMakeFiles/Threads_2D.dir/cmake_device_link.o -o Threads_2D  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"

@@ -1,0 +1,3 @@
+/home/miraz/semestr_4/JNP2/Redukcja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/miraz/semestr_4/JNP2/Redukcja/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miraz/semestr_4/JNP2/Redukcja/cmake-build-debug/CMakeFiles/Redukcja.dir

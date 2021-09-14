@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miraz/semestr_4/JNP2/Threads_2D/Threads_2D.cu
+Threads_2D.h
+/home/miraz/semestr_4/JNP2/Threads_2D/Threads_2D.h
+
+/home/miraz/semestr_4/JNP2/Threads_2D/Threads_2D.h
+iostream
+-
+cstdio
+-
+chrono
+-
+ctime
+-
+cmath
+-
+
